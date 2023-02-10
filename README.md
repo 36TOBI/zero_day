@@ -1,8 +1,3 @@
 ~~~~
-This is a
-piece of code
-in a block
+Hello World
 ~~~~
-```
-This too
-```
